@@ -30,6 +30,9 @@ export const ComponentIDs = {
   signUpFormEmail: 'signUpFormEmail',
   signUpFormPassword: 'signUpFormPassword',
   signUpFormSubmit: 'signUpFormSubmit',
+
+  // Add the new luckyMenuItem here
+  luckyMenuItem: 'luckyMenuItem', // <-- Added here
 };
 
 export const PageIDs = {
